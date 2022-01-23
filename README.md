@@ -1,0 +1,2 @@
+# vueMxgraph
+Mxgraph,vue3
